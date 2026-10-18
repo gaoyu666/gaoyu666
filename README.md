@@ -1,6 +1,6 @@
-<!-- 🌟 大神仿写版：结构仿 anuraghazra / abhisheknaiidu
-     核心原则：文字事实为主，动图克制，无新手徽章
-     配色沿用赛博：暗夜紫 #0d0221 + 霓虹粉 #ff2a6d + 电光青 #05d9e8 -->
+<!-- 🌟 花叔style版：结构仿 alchaincyf（花叔）——强文案 + 产品矩阵 + 钩子开场
+     保留：赛博配色头图/打字机 + 3D 贡献日历签名款
+     原则：文字事实为主，每个项目一句人话说明 + 强 CTA -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d0221,50:ff2a6d,100:05d9e8&text=gaoyu666&fontSize=72&fontColor=05d9e8&animation=fadeIn&fontAlignY=35&desc=%E2%96%88%20AI%20%C2%B7%20FDE%20%C2%B7%20CYBERPUNK%20%E2%96%88&descSize=20&descColor=ff2a6d&descAlignY=55" alt="header" />
@@ -14,22 +14,41 @@
 
 ---
 
-## 👨‍💻 About me
+## 🍟 先说一句
 
-> 计算机专业，4 年金融行业经验——从写方案、做演示到驻场交付都做过，代码一直没放下。
-
-- 💼 **FDE / AI 解决方案架构师** · 现专注 AI Agent 平台与 RAG 落地
-- 📈 AI 应用服务 **6000+ 用户，日活 1000+**；基于 AI 与 Vibe Coding 落地 RAG 问答、桌面智能体，均已上线
-- ❤️ 喜欢用 AI 把「客户没说出口的痛点」做成能跑起来的东西
-- 💬 **Ask me about anything** [here](https://github.com/gaoyu666/gaoyu666/issues)（有问题随便提，也欢迎来聊 AI 落地）
+> 有什么事，是你希望 AI 帮你做、但它还做不成的？
+> [开个 issue 聊聊](https://github.com/gaoyu666/gaoyu666/issues)——这正是我每天在解决的问题。
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 我是谁
+
+> 计算机专业，4 年金融行业经验——从写方案、做演示到驻场交付都做过，代码一直没放下。
+
+高宇，**FDE / AI 解决方案架构师**。前三年泡在金融客户现场，2025 年 10 月岗位调整后全面做 AI Agent 开发。基于 AI 与 Vibe Coding 落地多个项目：RAG 问答与桌面智能体均已上线，AI 应用服务 **6000+ 用户，日活 1000+**。
+
+越来越觉得，**FDE 的价值不止于写代码，更在于听懂客户没说出口的那句话。**
+
+---
+
+## 🚧 最近在做
+
+| 项目 | 一句话说明 |
+|---|---|
+| [infoedge](https://github.com/gaoyu666/infoedge) | 开源情报工作台：趋势发现、数据源追踪、机会评分 |
+| [OpenCoAI-Meeting](https://github.com/gaoyu666/OpenCoAI-Meeting) | AI 会议助手桌面工作区（Rust / Tauri） |
+| AI Agent 平台 | 内部 SRE 场景，服务 6000+ 用户、日活 1000+ |
+
+---
+
+## 🛠️ 从这里开始
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,vue,react,nodejs,spring,fastapi,docker,kubernetes,linux,redis,mysql,postgres,git&theme=dark&perline=8" alt="skill icons" />
 </p>
+
+**做什么**：RAG 问答 · AI Agent · 桌面智能体 · 金融行业解决方案
+**怎么做**：现场诊断 → 方案翻译 → 快速原型 → 工程落地 → 沉淀复用
 
 ---
 
@@ -43,24 +62,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📫 找到我
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gaoyu666&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaoyu666&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff2a6d&text_color=ffffff&langs_count=8" alt="top langs" />
-</p>
-
----
-
-## 📫 联系我
-
-<!-- TODO: 改成你的真实信息 -->
+<!-- TODO: 有公众号/B站/小红书/个人网站的话，把下面注释解开并改链接 -->
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-0d0221?style=for-the-badge&logo=gmail&logoColor=ff2a6d" alt="email" /></a>
   <a href="https://github.com/gaoyu666"><img src="https://img.shields.io/badge/-GitHub-0d0221?style=for-the-badge&logo=github&logoColor=05d9e8" alt="github" /></a>
-  <!-- TODO: 有博客/公众号/知乎把下面这行注释解开并改链接 -->
-  <!-- <a href="https://your-blog.com"><img src="https://img.shields.io/badge/-Blog-0d0221?style=for-the-badge&logo=rss&logoColor=f9f871" alt="blog" /></a> -->
+  <a href="https://github.com/gaoyu666/gaoyu666/issues"><img src="https://img.shields.io/badge/-%E5%BC%80%E4%B8%AAissue%E8%81%8A%E8%81%8A-0d0221?style=for-the-badge&logo=githubsponsors&logoColor=f9f871" alt="issues" /></a>
+  <!-- <a href="https://your-site.com"><img src="https://img.shields.io/badge/-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-0d0221?style=for-the-badge&logo=vercel&logoColor=f9f871" alt="website" /></a> -->
 </p>
+
+合作联系：[your-email@example.com](mailto:your-email@example.com)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d0221,50:ff2a6d,100:05d9e8" alt="footer" />
