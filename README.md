@@ -1,5 +1,6 @@
-<!-- 🌿 精简版 + 赛博配色 GitHub 主页：9 个高信息量板块
-     配色：暗夜紫 #0d0221 + 霓虹粉 #ff2a6d + 电光青 #05d9e8 + 警示黄 #f9f871 -->
+<!-- 🌟 大神仿写版：结构仿 anuraghazra / abhisheknaiidu
+     核心原则：文字事实为主，动图克制，无新手徽章
+     配色沿用赛博：暗夜紫 #0d0221 + 霓虹粉 #ff2a6d + 电光青 #05d9e8 -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d0221,50:ff2a6d,100:05d9e8&text=gaoyu666&fontSize=72&fontColor=05d9e8&animation=fadeIn&fontAlignY=35&desc=%E2%96%88%20AI%20%C2%B7%20FDE%20%C2%B7%20CYBERPUNK%20%E2%96%88&descSize=20&descColor=ff2a6d&descAlignY=55" alt="header" />
@@ -11,38 +12,16 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaoyu666&label=PROFILE+VIEWS&style=for-the-badge&color=ff2a6d" alt="views" />
-  <a href="https://github.com/gaoyu666?tab=followers">
-    <img src="https://img.shields.io/github/followers/gaoyu666?style=for-the-badge&logo=github&label=Followers&color=05d9e8" alt="followers" />
-  </a>
-  <a href="https://github.com/gaoyu666?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/gaoyu666?style=for-the-badge&logo=github&label=Total+Stars&color=f9f871" alt="stars" />
-  </a>
-</p>
-
 ---
 
-## 🧬 About Me
+## 👨‍💻 About me
 
-```yaml
-name: gaoyu666
-role: FDE / AI 解决方案架构师
-location: 中国
-education: 计算机专业
-languages: [Java, Python, TypeScript]
-now_focus: [AI Agent 平台, RAG 问答, 桌面智能体]
-philosophy: >
-  FDE 的价值不止于写代码，
-  更在于听懂客户没说出口的那句话。
-```
+> 计算机专业，4 年金融行业经验——从写方案、做演示到驻场交付都做过，代码一直没放下。
 
-```python
-while alive:
-    learn()          # 计算机专业底子，代码一直没放下
-    build()          # 落地 RAG 问答、桌面智能体、AI Agent 平台
-    deliver()        # 金融行业 4 年，方案 -> 交付 -> 上线
-```
+- 💼 **FDE / AI 解决方案架构师** · 现专注 AI Agent 平台与 RAG 落地
+- 📈 AI 应用服务 **6000+ 用户，日活 1000+**；基于 AI 与 Vibe Coding 落地 RAG 问答、桌面智能体，均已上线
+- ❤️ 喜欢用 AI 把「客户没说出口的痛点」做成能跑起来的东西
+- 💬 **Ask me about anything** [here](https://github.com/gaoyu666/gaoyu666/issues)（有问题随便提，也欢迎来聊 AI 落地）
 
 ---
 
@@ -56,24 +35,10 @@ while alive:
 
 ## 🔥 3D Contribution Calendar
 
-> 由 GitHub Actions 每日自动生成 · yoshi389111/github-profile-3d-contrib
+> GitHub Actions 每日自动生成 · yoshi389111/github-profile-3d-contrib
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="75%" alt="3d contribution calendar" />
-</p>
-
----
-
-## 🐍 Snake Eating My Contributions
-
-> 🟩⬜ 每天自动重跑 · Platane/snk（自动适配浅色/深色模式）
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
-    <img src="./dist/github-snake.svg" width="85%" alt="github-snake" />
-  </picture>
 </p>
 
 ---
@@ -85,13 +50,9 @@ while alive:
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaoyu666&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff2a6d&text_color=ffffff&langs_count=8" alt="top langs" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gaoyu666&hide_border=true&background=0d0221&fire=ff2a6d&ring=05d9e8&currStreakLabel=f9f871&sideLabels=ffffff&dates=8b949e" alt="streak" />
-</p>
-
 ---
 
-## 🤝 联系我
+## 📫 联系我
 
 <!-- TODO: 改成你的真实信息 -->
 <p align="center">
