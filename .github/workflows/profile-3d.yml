@@ -1,0 +1,38 @@
+# 生成 3D 贡献日历（每天自动更新）
+# 依赖：yoshi389111/github-profile-3d-contrib
+# 产出：profile-3d-contrib/ 目录下的 SVG，README 里按文件名引用
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # 每天 UTC 18:00（北京时间次日 2:00）
+  workflow_dispatch:         # 允许在 Actions 页面手动触发
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          if git commit -m "chore: update 3d contribution calendar"; then
+            git push
+          else
+            echo "No changes to commit"
+          fi
